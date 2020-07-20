@@ -8,4 +8,4 @@ Reach out me via [about.me](https://about.me/movingtoweb)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=movingtoweb&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MovingToWeb.visitor-badge)
+![Profile views](https://komarev.com/ghpvc/?username=MovingToWeb)
