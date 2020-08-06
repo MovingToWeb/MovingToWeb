@@ -13,6 +13,11 @@
 - [Getting started with Azure Kubernetes Service | Skaffold with Spring Boot Example | Tech Primers](https://www.youtube.com/watch?v=sK9_c9gSR8M)
 <!-- YOUTUBE:END -->
 
+### Latest Medium posts
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+
 Reach out to me via [about.me](https://about.me/movingtoweb)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=movingtoweb&show_icons=true)
