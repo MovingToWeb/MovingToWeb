@@ -2,7 +2,10 @@
 
 - My interests range from Travel to Programming to Food ⛱🌆💻🎮🍲🥘🍢. 
 - I try to show people - How it is done via [TechPrimers](https://github.com/TechPrimers)👨‍💻. 
-- Opinions/Views expressed here are my own 🗣️ !
+- Opinions/Views expressed here are my own 🗣️
+
+### Upcoming Conferences
+- [Conferences List](https://techprimers.github.io/conferences.html)
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
