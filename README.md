@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Podman | Daemonless Docker | Getting Started with Podman | Tech Primers](https://www.youtube.com/watch?v=Za2BqzeZjBk)
 - [Container Operating Systems | BottleRocket | RancherOS | Fedora CoreOS | Tech Shots](https://www.youtube.com/watch?v=d_465xLLOvQ)
 - [Rapids Rivers Ponds | Event Driven Microservices Pattern | Tech Primers](https://www.youtube.com/watch?v=St89bxUXneI)
 - [Live Q&A | #AskTechPrimers August 2020 | Tech Primers](https://www.youtube.com/watch?v=Pvafbkuuerw)
 - [Let's Try NATS | Cloud Native Messaging System | JNats | Tech Primers](https://www.youtube.com/watch?v=MbV_EhpBAH8)
-- [NestJS Intro with Example | Typescript version of Spring Boot? | Tech Primers](https://www.youtube.com/watch?v=tRvI2anzogY)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
