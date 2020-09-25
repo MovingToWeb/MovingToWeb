@@ -18,11 +18,11 @@
 
 ### Latest Medium posts
 <!-- MEDIUM:START -->
+- [Podman: Getting Started](https://medium.com/javarevisited/podman-getting-started-e7fc06961994?source=rss-d6010e1c772d------2)
 - [IDE Choices](https://medium.com/techprimers/ide-choices-b54c9276a7a0?source=rss-d6010e1c772d------2)
 - [Kubernetes Forum Bengaluru 2020 Highlights](https://medium.com/techprimers/kubernetes-forum-bengaluru-2020-highlights-e18b19120245?source=rss-d6010e1c772d------2)
 - [Amazon AI Conclave 2019](https://medium.com/techprimers/amazon-ai-conclave-2019-de1bcf1e402c?source=rss-d6010e1c772d------2)
 - [Free tiers in different Cloud Platforms for trying out Kubernetes](https://medium.com/techprimers/free-tiers-in-different-cloud-platforms-for-trying-out-kubernetes-2ccda3f296dc?source=rss-d6010e1c772d------2)
-- [AWS re:Invent 2019 — Keynote from Andy Jassy — Announcements](https://medium.com/techprimers/aws-re-invent-2019-keynote-from-andy-jassy-announcements-b65186a3c63a?source=rss-d6010e1c772d------2)
 <!-- MEDIUM:END -->
 
 
