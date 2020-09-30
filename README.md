@@ -11,9 +11,9 @@
 <!-- YOUTUBE:START -->
 - [Let's try Github CLI  | Productivity | Tech Primers](https://www.youtube.com/watch?v=hw4DhbEf8aM)
 - [Live Q&A | #AskTechPrimers September 2020 | Tech Primers](https://www.youtube.com/watch?v=LZGLKPNV64s)
-- [Live Q&A | #AskTechPrimers September 2020 | Tech Primers](https://www.youtube.com/watch?v=jxz3W4vWork)
 - [Podman | Daemonless Docker | Getting Started with Podman | Tech Primers](https://www.youtube.com/watch?v=Za2BqzeZjBk)
 - [Container Operating Systems | BottleRocket | RancherOS | Fedora CoreOS | Tech Shots](https://www.youtube.com/watch?v=d_465xLLOvQ)
+- [Rapids Rivers Ponds | Event Driven Microservices Pattern | Tech Primers](https://www.youtube.com/watch?v=St89bxUXneI)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
