@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
-- [Live Q&A | #AskTechPrimers October 2020 | Tech Primers](https://www.youtube.com/watch?v=HiDhsZ7O9Sw)
 - [Caching Architectures | Microservices Caching Patterns  | System Design Primer | Tech Primers](https://www.youtube.com/watch?v=0x-ZV_vP73k)
 - [Let's try Github CLI  | Productivity | Tech Primers](https://www.youtube.com/watch?v=hw4DhbEf8aM)
 - [Live Q&A | #AskTechPrimers September 2020 | Tech Primers](https://www.youtube.com/watch?v=LZGLKPNV64s)
 - [Podman | Daemonless Docker | Getting Started with Podman | Tech Primers](https://www.youtube.com/watch?v=Za2BqzeZjBk)
+- [Container Operating Systems | BottleRocket | RancherOS | Fedora CoreOS | Tech Shots](https://www.youtube.com/watch?v=d_465xLLOvQ)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
