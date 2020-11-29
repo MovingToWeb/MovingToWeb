@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
-- [Live Q&A | #AskTechPrimers November 2020 | Tech Primers](https://www.youtube.com/watch?v=toLrrnUfCNU)
 - [Stream Processing Example using Spring Boot, Spring Cloud Stream, EKS, Kinesis Data Streams](https://www.youtube.com/watch?v=BIy6n-uXWCY)
 - [Chrome Developer Tools in 2020 | UI Debugging | Productivity | Tech Primers](https://www.youtube.com/watch?v=pjrLX_emSI4)
 - [Batch Processing Example using Amazon Data Pipeline | S3 to DynamoDB using Amazon EMR | Tech Primers](https://www.youtube.com/watch?v=txrG-w6oN1M)
 - [Batch Processing vs Stream Processing | System Design Primer | Tech Primers](https://www.youtube.com/watch?v=A3Mvy8WMk04)
+- [Live Q&A | #AskTechPrimers October 2020 | Tech Primers](https://www.youtube.com/watch?v=HiDhsZ7O9Sw)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
