@@ -9,7 +9,7 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
-- [Python Containers on Lambda example using ECR, EventBridge, S3 | AWS Primer | Tech Primers](https://www.youtube.com/watch?v=pFw-PpVDdWw)
+- [Serverless Containers on Lambda example using ECR, EventBridge, S3 | AWS Primer | Tech Primers](https://www.youtube.com/watch?v=pFw-PpVDdWw)
 - [Golden Signals of Monitoring using Kubernetes, Linkerd, Prometheus and Grafana | DevOps Primer](https://www.youtube.com/watch?v=yvk1foViNwQ)
 - [Live Q&A | #AskTechPrimers November 2020 | Tech Primers](https://www.youtube.com/watch?v=toLrrnUfCNU)
 - [Stream Processing Example using Spring Boot, Spring Cloud Stream, EKS, Kinesis Data Streams](https://www.youtube.com/watch?v=BIy6n-uXWCY)
