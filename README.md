@@ -9,7 +9,7 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
-- [RSocket | What, Why and When to use? | Tech Primers](https://www.youtube.com/watch?v=jf0xhnoezC4)
+- [RSocket | Reactive Socket Streams | What, Why and When to use? | Tech Primers](https://www.youtube.com/watch?v=jf0xhnoezC4)
 - [Serverless Containers on Lambda example using ECR, EventBridge, S3 | AWS Primer | Tech Primers](https://www.youtube.com/watch?v=pFw-PpVDdWw)
 - [Golden Signals of Monitoring using Kubernetes, Linkerd, Prometheus and Grafana | DevOps Primer](https://www.youtube.com/watch?v=yvk1foViNwQ)
 - [Live Q&A | #AskTechPrimers November 2020 | Tech Primers](https://www.youtube.com/watch?v=toLrrnUfCNU)
