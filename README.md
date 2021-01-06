@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [K9s usage and features walkthrough | Popeye Sanitizer | Productivity | Kubernetes Primer](https://www.youtube.com/watch?v=jovHiTobzKQ)
 - [The Questions is....](https://www.youtube.com/watch?v=w-LiCQ4LWRw)
 - [Live Q&A | #AskTechPrimers December 2020 | Tech Primers](https://www.youtube.com/watch?v=IFLy-Oz30bo)
 - [RSocket | Reactive Socket Streams | What, Why and When to use? | Tech Primers](https://www.youtube.com/watch?v=jf0xhnoezC4)
 - [Serverless Containers on Lambda example using ECR, EventBridge, S3 | AWS Primer | Tech Primers](https://www.youtube.com/watch?v=pFw-PpVDdWw)
-- [Golden Signals of Monitoring using Kubernetes, Linkerd, Prometheus and Grafana | DevOps Primer](https://www.youtube.com/watch?v=yvk1foViNwQ)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
