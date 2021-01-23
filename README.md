@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
-- [Python on Azure [Azure Developer Stories]](https://www.youtube.com/watch?v=FhE3Z3_0D_E)
 - [Azure Fundamentals for Developers](https://www.youtube.com/watch?v=AYJDBdLOu-g)
 - [GraphQL API ft. AWS AppSync and Amazon DynamoDB | API Primer](https://www.youtube.com/watch?v=18MFi5jrr2s)
 - [K9s usage and features walkthrough | Popeye Sanitizer | Productivity | Kubernetes Primer](https://www.youtube.com/watch?v=jovHiTobzKQ)
 - [The Questions is....](https://www.youtube.com/watch?v=w-LiCQ4LWRw)
+- [Live Q&A | #AskTechPrimers December 2020 | Tech Primers](https://www.youtube.com/watch?v=IFLy-Oz30bo)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
