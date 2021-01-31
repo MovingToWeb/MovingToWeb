@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Azure Fundamentals for Developers](https://www.youtube.com/watch?v=gI2tDVkA410)
 - [Azure Kubernetes Day](https://www.youtube.com/watch?v=3xa0yskuLNc)
 - [Python on Azure [Azure Developer Stories]](https://www.youtube.com/watch?v=FhE3Z3_0D_E)
 - [Azure Fundamentals for Developers](https://www.youtube.com/watch?v=AYJDBdLOu-g)
 - [GraphQL API ft. AWS AppSync and Amazon DynamoDB | API Primer](https://www.youtube.com/watch?v=18MFi5jrr2s)
-- [K9s usage and features walkthrough | Popeye Sanitizer | Productivity | Kubernetes Primer](https://www.youtube.com/watch?v=jovHiTobzKQ)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
