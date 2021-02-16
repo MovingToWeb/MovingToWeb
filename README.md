@@ -11,9 +11,9 @@
 <!-- YOUTUBE:START -->
 - [RabbitMQ vs Kafka | Trade-off's to choose one over other | Tech Primers](https://www.youtube.com/watch?v=GMmRtSFQ5Z0)
 - [6 R's | Cloud Migration Strategies | Which one is right for you? | Tech Primers](https://www.youtube.com/watch?v=1O4f2jOmbPg)
-- [Azure Fundamentals for Developers](https://www.youtube.com/watch?v=gI2tDVkA410)
-- [Azure Kubernetes Day](https://www.youtube.com/watch?v=3xa0yskuLNc)
-- [Python on Azure [Azure Developer Stories]](https://www.youtube.com/watch?v=FhE3Z3_0D_E)
+- [[Meetup] Azure Fundamentals for Developers](https://www.youtube.com/watch?v=gI2tDVkA410)
+- [[Conference] Azure Kubernetes Day](https://www.youtube.com/watch?v=3xa0yskuLNc)
+- [[Meetup] Python on Azure [Azure Developer Stories]](https://www.youtube.com/watch?v=FhE3Z3_0D_E)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
