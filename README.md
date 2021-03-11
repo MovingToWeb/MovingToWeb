@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [APIs Vs. Events | Can they coexist? | API First or Event First | Tech Primers](https://www.youtube.com/watch?v=3t7pMx35Reg)
 - [AWS Toolkit Plugin for IntelliJ | Productivity | IntelliJ IDEA Primer](https://www.youtube.com/watch?v=9YWy9GoQNjw)
 - [Spring Cloud AWS example using SQS and ElastiCache for Redis | AWS Primer](https://www.youtube.com/watch?v=H3--8038so8)
 - [RabbitMQ vs Kafka | Trade-off's to choose one over other | Tech Primers](https://www.youtube.com/watch?v=GMmRtSFQ5Z0)
 - [6 R's | Cloud Migration Strategies | Which one is right for you? | Tech Primers](https://www.youtube.com/watch?v=1O4f2jOmbPg)
-- [[Meetup] Azure Fundamentals for Developers](https://www.youtube.com/watch?v=gI2tDVkA410)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
