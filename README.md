@@ -9,8 +9,8 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
-- [Cloud Community Days - Day 1](https://www.youtube.com/watch?v=m5PMzRrGxck)
 - [Cloud Community Days - Day 2](https://www.youtube.com/watch?v=KCnKiKyB4zM)
+- [Cloud Community Days - Day 1](https://www.youtube.com/watch?v=m5PMzRrGxck)
 - [Live Q&A | #AskTechPrimers March 2021 | Tech Primers](https://www.youtube.com/watch?v=kr8nZU_zz1c)
 - [APIs Vs. Events | Can they coexist? | API First or Event First | Tech Primers](https://www.youtube.com/watch?v=3t7pMx35Reg)
 - [AWS Toolkit Plugin for IntelliJ | Productivity | IntelliJ IDEA Primer](https://www.youtube.com/watch?v=9YWy9GoQNjw)
