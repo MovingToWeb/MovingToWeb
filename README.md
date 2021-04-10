@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [What's your Architecture? | Challenge 3 | Design an IoT Device Control App | Tech Primers](https://www.youtube.com/watch?v=6nh1g80UQN4)
 - [Istio on EKS in 30minutes | Istio Service Mesh | Zero to Hero | Kiali and Jaeger usage](https://www.youtube.com/watch?v=wCJEfqKpUf4)
 - [Starting Spring Boot in less than 100ms startup time | Spring Native Example | GraalVM](https://www.youtube.com/watch?v=YeNLr0C94as)
 - [Cloud Community Days - Day 2](https://www.youtube.com/watch?v=KCnKiKyB4zM)
 - [Cloud Community Days - Day 1](https://www.youtube.com/watch?v=m5PMzRrGxck)
-- [Live Q&A | #AskTechPrimers March 2021 | Tech Primers](https://www.youtube.com/watch?v=kr8nZU_zz1c)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
