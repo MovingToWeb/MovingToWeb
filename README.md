@@ -9,7 +9,7 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
-- [Chaos Experiments on EC2 using Gremlin | Chaos Engineering Platform](https://www.youtube.com/watch?v=romx-CZ-XQM)
+- [Chaos Experiments using Gremlin | Chaos Engineering Platform](https://www.youtube.com/watch?v=romx-CZ-XQM)
 - [15 Spring Boot Best Practices to create Production grade microservices](https://www.youtube.com/watch?v=bB-xAYpeVL8)
 - [OpenSearch | Elastic vs AWS Open Source Battle | Tech Shorts](https://www.youtube.com/watch?v=G7rTNeRW6e0)
 - [What's your Architecture? | Challenge 3 | Design an IoT Device Control App | Tech Primers](https://www.youtube.com/watch?v=6nh1g80UQN4)
