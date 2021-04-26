@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Live Q&A | #AskTechPrimers April 2021 | Tech Primers](https://www.youtube.com/watch?v=6W1h4QPTpf0)
 - [Chaos Experiments using Amazon Fault Injection Simulator on EKS | Chaos Engineering](https://www.youtube.com/watch?v=hAcu-YznBaQ)
 - [Chaos Experiments using Gremlin | Chaos Engineering Platform](https://www.youtube.com/watch?v=romx-CZ-XQM)
 - [15 Spring Boot Best Practices to create Production grade microservices](https://www.youtube.com/watch?v=bB-xAYpeVL8)
 - [OpenSearch | Elastic vs AWS Open Source Battle | Tech Shorts](https://www.youtube.com/watch?v=G7rTNeRW6e0)
-- [What's your Architecture? | Challenge 3 | Design an IoT Device Control App | Tech Primers](https://www.youtube.com/watch?v=6nh1g80UQN4)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
