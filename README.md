@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Terraform Primer | Terraform Architecture | #2](https://www.youtube.com/watch?v=a_IgGCEXAjQ)
 - [Terraform Primer | Getting Started | #1](https://www.youtube.com/watch?v=YXCuqueNQHk)
 - [Kafka Streams using Spring Cloud Stream | Microservices Example | Tech Primers](https://www.youtube.com/watch?v=rqjdSbIOrJ4)
 - [IoT Platform System Design | What's your Architecture Challenge 3 | System Design Primer](https://www.youtube.com/watch?v=bdCdKdfDf7o)
 - [Live Q&A | #AskTechPrimers April 2021 | Tech Primers](https://www.youtube.com/watch?v=6W1h4QPTpf0)
-- [Chaos Experiments using Amazon Fault Injection Simulator on EKS | Chaos Engineering](https://www.youtube.com/watch?v=hAcu-YznBaQ)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
