@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Using AWS for FREE | Even after 12 month Free Tier | 8 Tricks for AWS Credits](https://www.youtube.com/watch?v=OpTIKnkE9Hg)
 - [Event Sourcing & CQRS | Stock Exchange Microservices Architecture | System Design Primer](https://www.youtube.com/watch?v=E-7TBZxmkXE)
 - [Jaeger Tracing with Spring Boot | Distributed Log Tracing in Spring Boot | Tech Primers](https://www.youtube.com/watch?v=lJ_XAol-OKM)
 - [Terraform Primer | Variables & Output | #3](https://www.youtube.com/watch?v=e66TDdBLPAg)
 - [Terraform Primer | Terraform Architecture | #2](https://www.youtube.com/watch?v=a_IgGCEXAjQ)
-- [Terraform Primer | Getting Started | #1](https://www.youtube.com/watch?v=YXCuqueNQHk)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
