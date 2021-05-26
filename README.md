@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Terraform Primer | Modules | #4](https://www.youtube.com/watch?v=cGGSkHs2KMo)
 - [Live Q&A | #AskTechPrimers May 2021 | Tech Primers](https://www.youtube.com/watch?v=461V8UtukWY)
 - [Using AWS for FREE | Even after 12 month Free Tier | 8 Tricks for AWS Credits](https://www.youtube.com/watch?v=OpTIKnkE9Hg)
 - [Event Sourcing & CQRS | Stock Exchange Microservices Architecture | System Design Primer](https://www.youtube.com/watch?v=E-7TBZxmkXE)
 - [Jaeger Tracing with Spring Boot | Distributed Log Tracing in Spring Boot | Tech Primers](https://www.youtube.com/watch?v=lJ_XAol-OKM)
-- [Terraform Primer | Variables & Output | #3](https://www.youtube.com/watch?v=e66TDdBLPAg)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
