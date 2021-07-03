@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
-- [Live Q&A | #AskTechPrimers July 2021 | Tech Primers](https://www.youtube.com/watch?v=gxBoHyEdl18)
 - [Fargate on EKS | Serverless Containers in Kubernetes | Hands-on | Tech Primers](https://www.youtube.com/watch?v=DLmKMBZ_m3w)
 - [Terraform Primer | Modules | #4](https://www.youtube.com/watch?v=cGGSkHs2KMo)
 - [Live Q&A | #AskTechPrimers May 2021 | Tech Primers](https://www.youtube.com/watch?v=461V8UtukWY)
 - [Using AWS for FREE | Even after 12 month Free Tier | 8 Tricks for AWS Credits](https://www.youtube.com/watch?v=OpTIKnkE9Hg)
+- [Event Sourcing & CQRS | Stock Exchange Microservices Architecture | System Design Primer](https://www.youtube.com/watch?v=E-7TBZxmkXE)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
