@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [15 Kubernetes Best Practices | Kubernetes Primer](https://www.youtube.com/watch?v=jImA5Nv9sAg)
 - [SAGA 2 | Compensating Transaction Pattern | Zomato System Design Primer](https://www.youtube.com/watch?v=a8RM2xCM9RY)
 - [Mono repos at Swiggy | Microfrontends & Mono repos Explained | Tech Primers](https://www.youtube.com/watch?v=m2cPEwwf8bc)
 - [Live Q&A | #AskTechPrimers July 2021 | Tech Primers](https://www.youtube.com/watch?v=gxBoHyEdl18)
 - [Fargate on EKS | Serverless Containers in Kubernetes | Hands-on | Tech Primers](https://www.youtube.com/watch?v=DLmKMBZ_m3w)
-- [Terraform Primer | Modules | #4](https://www.youtube.com/watch?v=cGGSkHs2KMo)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
