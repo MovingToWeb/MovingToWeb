@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [gRPC with Spring Boot Example | Protobuf Stub & Skeleton | Tech Primers](https://www.youtube.com/watch?v=2CWYorTWyGs)
 - [100K | Tech Primers #Shorts](https://www.youtube.com/watch?v=i9CAayIXVyU)
 - [100K | Tech Primers](https://www.youtube.com/watch?v=zk4RMU6RPVA)
 - [SAGA Choreography Implementation | Part 1 - Requirements | Tech Primers](https://www.youtube.com/watch?v=WbNJTwKOCuM)
 - [15 Kubernetes Best Practices | Kubernetes Primer](https://www.youtube.com/watch?v=jImA5Nv9sAg)
-- [SAGA 2 | Compensating Transaction Pattern | Zomato System Design Primer](https://www.youtube.com/watch?v=a8RM2xCM9RY)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
