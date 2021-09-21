@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Oracle JDK Free again....?? Finally....! | Tech Shorts](https://www.youtube.com/watch?v=kLTcPLT6oOk)
 - [Kafka Connect Explained | When to use | Fraud Detection System Example | Tech Primers](https://www.youtube.com/watch?v=-KHcOaIS-WE)
 - [SAGA Choreography Implementation | Part 2 - order-service with gRPC, DynamoDB & SQS | Tech Primers](https://www.youtube.com/watch?v=bW62nGa5EvM)
 - [gRPC with Spring Boot Example | Protobuf Stub & Skeleton | Tech Primers](https://www.youtube.com/watch?v=2CWYorTWyGs)
 - [100K | Tech Primers #Shorts](https://www.youtube.com/watch?v=i9CAayIXVyU)
-- [100K | Tech Primers](https://www.youtube.com/watch?v=zk4RMU6RPVA)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
