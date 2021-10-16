@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Live Q&A | #AskTechPrimers October 2021 | Tech Primers](https://www.youtube.com/watch?v=83MzYbgRxX0)
 - [My Desktop Setup & Unboxing Silver Play button | Tech Primers](https://www.youtube.com/watch?v=OEhqaK1_kNI)
 - [Oracle JDK Free again....?? Finally....! | Tech Shorts](https://www.youtube.com/watch?v=kLTcPLT6oOk)
 - [Kafka Connect Explained | When to use | Fraud Detection System Example | Tech Primers](https://www.youtube.com/watch?v=-KHcOaIS-WE)
 - [SAGA Choreography Implementation | Part 2 - order-service with gRPC, DynamoDB & SQS | Tech Primers](https://www.youtube.com/watch?v=bW62nGa5EvM)
-- [gRPC with Spring Boot Example | Protobuf Stub & Skeleton | Tech Primers](https://www.youtube.com/watch?v=2CWYorTWyGs)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
