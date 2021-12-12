@@ -9,11 +9,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Logs on Fire? | Log4j Vulnerability | How to remediate them ASAP? | Tech Primers](https://www.youtube.com/watch?v=FDR-Vs8hR3Y)
 - [Blockchain on Kubernetes | Deploying ETH Blockchain on K8s | Blockchain Primer](https://www.youtube.com/watch?v=Xw4FfuMh3T0)
 - [Zerodha: Cloud Native Case Study | Zerodha on AWS | Tech Primers](https://www.youtube.com/watch?v=1TWRaH3aVHY)
 - [Live Q&amp;A | #AskTechPrimers October 2021 | Tech Primers](https://www.youtube.com/watch?v=83MzYbgRxX0)
 - [My Desktop Setup &amp; Unboxing Silver Play button | Tech Primers](https://www.youtube.com/watch?v=OEhqaK1_kNI)
-- [Oracle JDK Free again....?? Finally....! | Tech Shorts](https://www.youtube.com/watch?v=kLTcPLT6oOk)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
