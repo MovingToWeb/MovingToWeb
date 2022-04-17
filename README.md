@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- I'm a Principal Member of Technical Staff at Oracle Cloud Infrastructure (OCI)
 - I try to show people - How it is done via [TechPrimers](https://github.com/TechPrimers)👨‍💻. 
 - Opinions/Views expressed here are my own 🗣️
 
