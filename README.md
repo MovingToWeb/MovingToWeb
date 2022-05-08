@@ -8,11 +8,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Anti Corruption Layer | Monolith to Microservices Pattern | Tech Primers](https://www.youtube.com/watch?v=eO6ud9ZdJlw)
 - [Spring on Fire this time? | RCE Vulnerability | How to identify and remediate it? | TechPrimers](https://www.youtube.com/watch?v=oHrw7tFzdA0)
 - [Lets Try DropWizard | Spring Boot Alternative? | Tech Primers](https://www.youtube.com/watch?v=GjItN847lFs)
 - [Transactional Outbox Pattern | Microservices Architecture Pattern | System Design Primer](https://www.youtube.com/watch?v=M-Fhb8LzhPo)
 - [7 Design Principles for Containers | Cloud Native Container Design | Tech Primers](https://www.youtube.com/watch?v=JG199TAAtkc)
-- [The Scale Cube | Rules of Scalability | System Design Primer | Tech Primers](https://www.youtube.com/watch?v=8ZW3rl4LEtY)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
