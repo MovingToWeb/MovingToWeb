@@ -8,11 +8,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Colima | Open Source alternative for Docker Desktop | Productivity](https://www.youtube.com/watch?v=v3sf_Ekhmtw)
 - [Exponential Backoff | Microservices/Distributed Systems Strategy | Zerodha System Design](https://www.youtube.com/watch?v=JJUqPAJ9z-M)
 - [Anti Corruption Layer | Monolith to Microservices Pattern | Tech Primers](https://www.youtube.com/watch?v=eO6ud9ZdJlw)
 - [Spring on Fire this time? | RCE Vulnerability | How to identify and remediate it? | TechPrimers](https://www.youtube.com/watch?v=oHrw7tFzdA0)
 - [Lets Try DropWizard | Spring Boot Alternative? | Tech Primers](https://www.youtube.com/watch?v=GjItN847lFs)
-- [Transactional Outbox Pattern | Microservices Architecture Pattern | System Design Primer](https://www.youtube.com/watch?v=M-Fhb8LzhPo)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
