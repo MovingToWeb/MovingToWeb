@@ -8,11 +8,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Flash Sale System Design | How to Scale Flipkart UI? | Part 1 | System Design Primer](https://www.youtube.com/watch?v=x4CQlmXU06s)
 - [How to solve Long Running Transactions? | Beyond Saga Pattern | Introducing Workflow Orchestration..](https://www.youtube.com/watch?v=5YUkX8ka6Xw)
 - [Colima | Open Source alternative for Docker Desktop | Productivity](https://www.youtube.com/watch?v=v3sf_Ekhmtw)
 - [Exponential Backoff | Microservices/Distributed Systems Strategy | Zerodha System Design](https://www.youtube.com/watch?v=JJUqPAJ9z-M)
 - [Anti Corruption Layer | Monolith to Microservices Pattern | Tech Primers](https://www.youtube.com/watch?v=eO6ud9ZdJlw)
-- [Spring on Fire this time? | RCE Vulnerability | How to identify and remediate it? | TechPrimers](https://www.youtube.com/watch?v=oHrw7tFzdA0)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
