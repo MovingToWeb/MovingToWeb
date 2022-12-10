@@ -8,11 +8,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Rate Limiter using Spring Cloud Gateway and Redis example | Tech Primers](https://www.youtube.com/watch?v=0LoqPg6h6wc)
 - [Rate Limiting vs Load Shedding | Microservices Architecture Pattern | Tech Primers](https://www.youtube.com/watch?v=JAWgpC-NaW8)
 - [ChatGPT | Can it replace Tech Primers? | Lets try!](https://www.youtube.com/watch?v=9s8QIOpjzbU)
 - [Scale Reviews and Ratings using Caches, CQRS | Part 2 | Flash Sale System Design Primer](https://www.youtube.com/watch?v=UvShsiHJOOY)
 - [Flash Sale System Design | How to Scale Flipkart UI? | Part 1 | System Design Primer](https://www.youtube.com/watch?v=x4CQlmXU06s)
-- [How to solve Long Running Transactions? | Beyond Saga Pattern | Introducing Workflow Orchestration..](https://www.youtube.com/watch?v=5YUkX8ka6Xw)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
