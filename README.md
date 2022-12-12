@@ -3,9 +3,6 @@
 - I try to show people - How it is done via [TechPrimers](https://github.com/TechPrimers)👨‍💻. 
 - Opinions/Views expressed here are my own 🗣️
 
-### Upcoming Conferences
-- [Conferences List](https://techprimers.github.io/conferences.html)
-
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
 - [Rate Limiter using Spring Cloud Gateway and Redis example | Tech Primers](https://www.youtube.com/watch?v=0LoqPg6h6wc)
