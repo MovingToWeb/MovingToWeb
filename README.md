@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Load Shedding in Spring Boot | Tech Primers](https://www.youtube.com/watch?v=msy3GKrBjik)
 - [Session Management using Spring Session Redis in Spring Boot | Tech Primers](https://www.youtube.com/watch?v=KStr5ZspNvM)
 - [Rate Limiter using Spring Cloud Gateway and Redis example | Tech Primers](https://www.youtube.com/watch?v=0LoqPg6h6wc)
 - [Rate Limiting vs Load Shedding | Microservices Architecture Pattern | Tech Primers](https://www.youtube.com/watch?v=JAWgpC-NaW8)
 - [ChatGPT | Can it replace Tech Primers? | Lets try!](https://www.youtube.com/watch?v=9s8QIOpjzbU)
-- [Scale Reviews and Ratings using Caches, CQRS | Part 2 | Flash Sale System Design Primer](https://www.youtube.com/watch?v=UvShsiHJOOY)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
