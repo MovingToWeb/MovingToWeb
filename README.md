@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [HA vs Fault Tolerance | How Swiggy handles Faults in Microservices? | Tech Primers](https://www.youtube.com/watch?v=7Q73wgGUpZM)
 - [Load Shedding in Kubernetes | Readiness Probes | Tech Primers](https://www.youtube.com/watch?v=om-bvBu3-dU)
 - [Load Shedding in Spring Boot | Tech Primers](https://www.youtube.com/watch?v=msy3GKrBjik)
 - [Session Management using Spring Session Redis in Spring Boot | Tech Primers](https://www.youtube.com/watch?v=KStr5ZspNvM)
 - [Rate Limiter using Spring Cloud Gateway and Redis example | Tech Primers](https://www.youtube.com/watch?v=0LoqPg6h6wc)
-- [Rate Limiting vs Load Shedding | Microservices Architecture Pattern | Tech Primers](https://www.youtube.com/watch?v=JAWgpC-NaW8)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
