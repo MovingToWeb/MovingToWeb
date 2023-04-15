@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Spring Boot Server Sent Events Example | Unidirectional Streams | Tech Primers](https://www.youtube.com/watch?v=K0uMsO7Vrgg)
 - [HTTP Long Polling vs Server Sent Events vs Websockets | Tech Primers](https://www.youtube.com/watch?v=1cFyfT0m3bA)
 - [Feature Flags aka. Feature Toggles Pattern | Tech Primers](https://www.youtube.com/watch?v=HvKL3rXVwfg)
 - [HA vs Fault Tolerance | How Swiggy handles Faults in Microservices? | Tech Primers](https://www.youtube.com/watch?v=7Q73wgGUpZM)
 - [Load Shedding in Kubernetes | Readiness Probes | Tech Primers](https://www.youtube.com/watch?v=om-bvBu3-dU)
-- [Load Shedding in Spring Boot | Tech Primers](https://www.youtube.com/watch?v=msy3GKrBjik)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
