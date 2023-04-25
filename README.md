@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [OSV Scanner | Google&#39;s Distributed Vulnerability Database for Open Source | Tech Primers](https://www.youtube.com/watch?v=PCAtOp2Qhq8)
 - [Spring Boot 3 🔥 | Feature Breakdown | Breaking Changes | New Changes | Part 1](https://www.youtube.com/watch?v=AcaR1wBi6mQ)
 - [10 IntelliJ Shortcuts I use daily in 2023 | Productivity | IntelliJ IDEA Primer](https://www.youtube.com/watch?v=Ul1SGfp0I5U)
 - [Spring Boot Server Sent Events Example | Unidirectional Streams | Tech Primers](https://www.youtube.com/watch?v=K0uMsO7Vrgg)
 - [HTTP Long Polling vs Server Sent Events vs Websockets | Tech Primers](https://www.youtube.com/watch?v=1cFyfT0m3bA)
-- [Feature Flags aka. Feature Toggles Pattern | Tech Primers](https://www.youtube.com/watch?v=HvKL3rXVwfg)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
