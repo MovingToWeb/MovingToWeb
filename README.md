@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [FF4j | Spring Boot 3 Example | ReleaseDateFlipStrategy |  Tech Primers](https://www.youtube.com/watch?v=Vo6jVQK0cBE)
 - [What is p99, p95, p50 Latency? | How Razorpay handles burst traffic? | Smart Routing | Tech Primers](https://www.youtube.com/watch?v=BrzhaXSEWy8)
 - [Microservices | How did they come into existence? | The history timeline](https://www.youtube.com/watch?v=29lOEjw8hEs)
 - [Spring Boot 3 | Circuit Breakers using Resilience4J | Microservices Resiliency Primer](https://www.youtube.com/watch?v=3-ChrD3Zosg)
 - [Back to Monolithic App?  | Prime Video Case Study | Microservices to Monolith | Tech Primers](https://www.youtube.com/watch?v=9JPYCOpeDnY)
-- [OSV Scanner | Google&#39;s Distributed Vulnerability Database for Open Source | Tech Primers](https://www.youtube.com/watch?v=PCAtOp2Qhq8)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
