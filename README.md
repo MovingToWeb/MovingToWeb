@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Tech Primers 2.0](https://www.youtube.com/watch?v=YoU4RUUCdAg)
 - [Lambda Architecture | How Youtube counts views in a video | System Design Primer](https://www.youtube.com/watch?v=mJsLK-iPagc)
 - [FF4j | Spring Boot 3 Example | ReleaseDateFlipStrategy |  Tech Primers](https://www.youtube.com/watch?v=Vo6jVQK0cBE)
 - [What is p99, p95, p50 Latency? | How Razorpay handles burst traffic? | Smart Routing | Tech Primers](https://www.youtube.com/watch?v=BrzhaXSEWy8)
 - [Microservices | How did they come into existence? | The history timeline](https://www.youtube.com/watch?v=29lOEjw8hEs)
-- [Spring Boot 3 | Circuit Breakers using Resilience4J | Microservices Resiliency Primer](https://www.youtube.com/watch?v=3-ChrD3Zosg)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
