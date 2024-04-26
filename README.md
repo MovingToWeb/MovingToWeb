@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Deep Dive: API Gateway](https://www.youtube.com/watch?v=xtd5GQl4Dxc)
 - [Codeium | Github CoPilot Free Alternative? | IntelliJ AI Plugin | AI Assistant Chat](https://www.youtube.com/watch?v=vNTwklkUm94)
 - [Generative AI | What does it really mean for beginners?](https://www.youtube.com/watch?v=GemvW7aLbP8)
 - [Tech Primers 2.0](https://www.youtube.com/watch?v=YoU4RUUCdAg)
 - [Lambda Architecture | How Youtube counts views in a video | System Design Primer](https://www.youtube.com/watch?v=mJsLK-iPagc)
-- [FF4j | Spring Boot 3 Example | ReleaseDateFlipStrategy |  Tech Primers](https://www.youtube.com/watch?v=Vo6jVQK0cBE)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
