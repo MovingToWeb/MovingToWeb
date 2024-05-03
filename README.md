@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Hugging Face | Open Source AI Platform for the community](https://www.youtube.com/watch?v=IQm1gjIyJp8)
 - [RAG Architecture | Scalable Architecture for LLMs](https://www.youtube.com/watch?v=aBGR2uXMq7E)
 - [Prompt Engineering | How can I talk to AI Efficiently?](https://www.youtube.com/watch?v=zsdEGutv-2k)
 - [Deep Dive: API Gateway](https://www.youtube.com/watch?v=xtd5GQl4Dxc)
 - [Codeium | Github CoPilot Free Alternative? | IntelliJ AI Plugin | AI Assistant Chat](https://www.youtube.com/watch?v=vNTwklkUm94)
-- [Generative AI | What does it really mean for beginners?](https://www.youtube.com/watch?v=GemvW7aLbP8)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
