@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Spring Academy by VMware | FREE Courses, Guides and Learning Paths](https://www.youtube.com/watch?v=v4SxUh3q45A)
 - [Hugging Face | Open Source AI Platform for the community](https://www.youtube.com/watch?v=IQm1gjIyJp8)
 - [RAG Architecture | Scalable Architecture for LLMs](https://www.youtube.com/watch?v=aBGR2uXMq7E)
 - [Prompt Engineering | How can I talk to AI Efficiently?](https://www.youtube.com/watch?v=zsdEGutv-2k)
 - [Deep Dive: API Gateway](https://www.youtube.com/watch?v=xtd5GQl4Dxc)
-- [Codeium | Github CoPilot Free Alternative? | IntelliJ AI Plugin | AI Assistant Chat](https://www.youtube.com/watch?v=vNTwklkUm94)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
