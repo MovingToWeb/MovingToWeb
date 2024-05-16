@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [3 AI Browsers with AI Assistants to increase your productivity](https://www.youtube.com/watch?v=UxSUBPpzjl4)
 - [Timeout Pattern |  Resilience4J TimeLimiter with Spring Boot | Microservices Architecture Pattern](https://www.youtube.com/watch?v=5qqHbBhgcXo)
 - [Spring Academy by VMware | FREE Courses, Guides and Learning Paths](https://www.youtube.com/watch?v=v4SxUh3q45A)
 - [Hugging Face | Open Source AI Platform for the community](https://www.youtube.com/watch?v=IQm1gjIyJp8)
 - [RAG Architecture | Scalable Architecture for LLMs](https://www.youtube.com/watch?v=aBGR2uXMq7E)
-- [Prompt Engineering | How can I talk to AI Efficiently?](https://www.youtube.com/watch?v=zsdEGutv-2k)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
