@@ -5,7 +5,7 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
-- [Chat Bot in 5 lines of code 💬 ft. Gradio | Tech Primers](https://www.youtube.com/watch?v=XbraDFttxkc)
+- [Chat UI in 5 lines of code 💬 ft. Gradio | Tech Primers](https://www.youtube.com/watch?v=XbraDFttxkc)
 - [Hands-on: Azure Open AI with Spring AI 🔥☁️](https://www.youtube.com/watch?v=VtucbWYhIa8)
 - [Spring Health Assessment | How vulnerable is your Spring Application? 🔥](https://www.youtube.com/watch?v=TiunDtOIwSU)
 - [Hands-on: Spring AI with Ollama and Microsoft Phi-3  🚀 🦙 | Run LLMs locally and connect from Java](https://www.youtube.com/watch?v=eiWXBIPDPiY)
