@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Strike! | How to recover your Windows from Blue Screen of death? | Step by Step | AWS and Azure](https://www.youtube.com/watch?v=FlUv-G50xbc)
 - [Chat UI in 5 lines of code 💬 ft. Gradio | Tech Primers](https://www.youtube.com/watch?v=XbraDFttxkc)
 - [Hands-on: Azure Open AI with Spring AI 🔥☁️](https://www.youtube.com/watch?v=VtucbWYhIa8)
 - [Spring Health Assessment | How vulnerable is your Spring Application? 🔥](https://www.youtube.com/watch?v=TiunDtOIwSU)
 - [Hands-on: Spring AI with Ollama and Microsoft Phi-3  🚀 🦙 | Run LLMs locally and connect from Java](https://www.youtube.com/watch?v=eiWXBIPDPiY)
-- [What is Small Language Model? | Need for SLMs | GPTs in Laptop | Offline Language Models](https://www.youtube.com/watch?v=ssVILYrZifQ)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
