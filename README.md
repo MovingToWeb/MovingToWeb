@@ -5,11 +5,11 @@
 
 ### Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Vector Databases Explained | When to use?](https://www.youtube.com/watch?v=VxcLX3Hx8E4)
 - [PACELC Theorem | Beyond CAP Theorem | System Design Primer](https://www.youtube.com/watch?v=rVF0Oi_R84Q)
 - [Friday Blues! | How to recover your Windows from Blue Screen of death? | Step by Step | AWS &amp; Azure](https://www.youtube.com/watch?v=FlUv-G50xbc)
 - [Chat UI in 5 lines of code 💬 ft. Gradio | Tech Primers](https://www.youtube.com/watch?v=XbraDFttxkc)
 - [Hands-on: Azure Open AI with Spring AI 🔥☁️](https://www.youtube.com/watch?v=VtucbWYhIa8)
-- [Spring Health Assessment | How vulnerable is your Spring Application? 🔥](https://www.youtube.com/watch?v=TiunDtOIwSU)
 <!-- YOUTUBE:END -->
 
 ### Latest Medium posts
